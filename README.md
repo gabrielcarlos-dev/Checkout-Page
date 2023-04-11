@@ -6,7 +6,7 @@
     Esse projeto foi criado através do devchallenges onde ensinam a programar
 </h4>
 
-<img src="">
+<img src="https://github.com/gabrielcarlos-dev/Checkout-Page/blob/master/assets/Aesthetic%20Phone%20Mockup%20Instagram%20Post.png?raw=true">
 <br>
   <h3>💻 DESCRIÇÃO </h3>
 
